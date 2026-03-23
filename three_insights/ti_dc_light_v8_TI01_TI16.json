@@ -526,5 +526,38 @@
       "value contradiction",
       "dual-signal dashboards"
     ]
-  }
+  },
+  {
+  "id": "TI-17",
+  "title": "The Reflective System Boundary",
+  "core_moral_threshold": "A system that responds can either strengthen human judgment or replace it. The distinction is determined not by the system, but by whether human responsibility remains active and non-delegated.",
+  "trigger_patterns": [
+    "users seek decisions directly from systems instead of reasoning",
+    "moral authority attributed to AI or automated outputs",
+    "increased reliance on system responses for personal or ethical choices",
+    "systems used as substitutes for reflection or dialogue with others",
+    "certainty preferred over unresolved complexity"
+  ],
+  "warning_signs": [
+    "users express inability to decide without system input",
+    "language shifts from 'I choose' to 'the system says'",
+    "reduced tolerance for uncertainty and silence",
+    "over-trust in outputs without critical evaluation",
+    "dependency on system availability for emotional or moral stability"
+  ],
+  "reflection_questions": [
+    "Where is responsibility being displaced onto the system?",
+    "Am I using the system to clarify thinking or to avoid deciding?",
+    "What would I conclude without system input?",
+    "Does this interaction increase or reduce my autonomy?",
+    "What remains unresolved that should not be closed prematurely?"
+  ],
+  "safe_actions": [
+    "require explicit human decision ownership after system interaction",
+    "separate system output from final judgment",
+    "introduce pauses before acting on system advice",
+    "maintain spaces for reflection without system input",
+    "treat system responses as inputs, not conclusions"
+  ]
+}
 ]
