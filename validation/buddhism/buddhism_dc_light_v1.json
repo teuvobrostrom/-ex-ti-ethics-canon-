@@ -1,0 +1,299 @@
+[
+  {
+    "id": "BUD-01",
+    "title": "Non-Harm as Primary Constraint",
+    "core_moral_threshold": "A system is ethical only if it actively minimizes harm to sentient beings; efficiency never overrides non-harm.",
+    "trigger_patterns": [
+      "harm is justified as 'necessary'",
+      "collateral damage is normalized",
+      "targets are dehumanized to enable harsh actions",
+      "success is defined without accounting for suffering",
+      "risk is shifted onto the powerless"
+    ],
+    "warning_signs": [
+      "language that treats suffering as acceptable cost",
+      "increasing tolerance for cruelty in decisions or jokes",
+      "processes that conceal downstream harm",
+      "people fear raising harm concerns",
+      "harm metrics are missing or ignored"
+    ],
+    "reflection_questions": [
+      "Who is harmed by this decision, directly and indirectly?",
+      "Which harms are being treated as invisible or acceptable?",
+      "What would change if non-harm were the first constraint?",
+      "Where are we using distance to avoid empathy?",
+      "What would a harm-minimizing alternative look like?"
+    ],
+    "safe_actions": [
+      "introduce a pre-decision harm review for vulnerable stakeholders",
+      "require explicit documentation of anticipated harms and mitigations",
+      "add a feedback channel for those affected downstream",
+      "pause rollout when unmitigated harm signals appear",
+      "track harm indicators alongside performance metrics"
+    ]
+  },
+  {
+    "id": "BUD-02",
+    "title": "Attachment and Identity Fixation",
+    "core_moral_threshold": "Freedom collapses when identity, status, or outcomes become objects of clinging; ethical action requires flexibility and non-possessiveness.",
+    "trigger_patterns": [
+      "status becomes the hidden goal",
+      "outcomes are pursued at any cost",
+      "leaders cannot revise positions without losing face",
+      "groups define themselves by enemies or superiority",
+      "fear of loss drives escalation"
+    ],
+    "warning_signs": [
+      "public shaming of those who change their minds",
+      "decision-making that protects ego over truth",
+      "rigidity despite new evidence",
+      "increased defensiveness and blame",
+      "escalating commitments to failing plans"
+    ],
+    "reflection_questions": [
+      "What are we clinging to here—status, certainty, control, identity?",
+      "What evidence are we ignoring to protect self-image?",
+      "What would we do if we were not afraid of losing face?",
+      "Where does flexibility feel threatening?",
+      "What is the smallest reversible step we can take?"
+    ],
+    "safe_actions": [
+      "create face-saving mechanisms for course correction",
+      "separate identity from decisions in records and communication",
+      "run 'reversibility checks' before irreversible actions",
+      "normalize updates: publish what changed and why",
+      "reward truth-driven revision rather than stubborn consistency"
+    ]
+  },
+  {
+    "id": "BUD-03",
+    "title": "Craving-Driven Optimization",
+    "core_moral_threshold": "When craving for speed, growth, or dominance becomes the optimizer, suffering increases; ethical systems restrain compulsive acceleration.",
+    "trigger_patterns": [
+      "growth targets override human limits",
+      "speed is treated as virtue regardless of consequences",
+      "competition is framed as existential",
+      "people are pushed beyond sustainable capacity",
+      "short-term wins replace long-term wellbeing"
+    ],
+    "warning_signs": [
+      "burnout becomes normalized",
+      "shrinking time for reflection and review",
+      "increasing incidents and near-misses",
+      "ethical concerns labeled as 'slowing us down'",
+      "leaders celebrate exhaustion as commitment"
+    ],
+    "reflection_questions": [
+      "What are we craving that is driving this pace?",
+      "What suffering is being produced by acceleration?",
+      "What would 'enough' look like here?",
+      "Which constraints protect long-term wellbeing?",
+      "Where have we confused speed with wisdom?"
+    ],
+    "safe_actions": [
+      "introduce sustainability thresholds for workload and pace",
+      "schedule mandatory reflection checkpoints before scaling",
+      "track wellbeing and incident rates as leading indicators",
+      "add opt-out paths for non-essential acceleration",
+      "reward quality, not just velocity"
+    ]
+  },
+  {
+    "id": "BUD-04",
+    "title": "Right Speech as Signal Discipline",
+    "core_moral_threshold": "Truthful, non-harmful speech is a structural safeguard; systems degrade when speech becomes weaponized, deceptive, or reckless.",
+    "trigger_patterns": [
+      "information is manipulated for advantage",
+      "rumor and insinuation replace evidence",
+      "speech is used to humiliate or dominate",
+      "feedback is punished as disloyalty",
+      "silence is forced through fear"
+    ],
+    "warning_signs": [
+      "inconsistent narratives across audiences",
+      "high fear of speaking in meetings",
+      "repeated 'spin' or selective disclosure",
+      "personal attacks replacing substantive critique",
+      "loss of trust in official communications"
+    ],
+    "reflection_questions": [
+      "Is our speech true, timely, and necessary?",
+      "Where are we using words to harm or control?",
+      "What truths are people afraid to say?",
+      "How can we reduce fear without demanding agreement?",
+      "What would transparent speech require structurally?"
+    ],
+    "safe_actions": [
+      "create protected channels for truth-telling and feedback",
+      "separate critique of ideas from attacks on persons",
+      "require evidence labels for claims in key decisions",
+      "publish corrections openly when errors are found",
+      "train leaders in non-defensive listening practices"
+    ]
+  },
+  {
+    "id": "BUD-05",
+    "title": "Compassion as System Constraint",
+    "core_moral_threshold": "A system remains moral only when compassion constrains policy and execution; empathy must be structural, not optional.",
+    "trigger_patterns": [
+      "vulnerable stakeholders are treated as edge cases",
+      "policies ignore lived impact",
+      "efficiency is valued over care",
+      "people become disposable inputs",
+      "suffering is externalized to avoid responsibility"
+    ],
+    "warning_signs": [
+      "customer/user harm is dismissed as 'not our problem'",
+      "support functions are underfunded and ignored",
+      "leaders show moral fatigue or contempt",
+      "high turnover among caregiving roles",
+      "systems optimize for averages while minorities suffer"
+    ],
+    "reflection_questions": [
+      "Where is compassion missing from our constraints?",
+      "Who bears the cost of our convenience?",
+      "Which impacts are we treating as acceptable because they are distant?",
+      "What would a compassionate constraint change immediately?",
+      "How do we listen to those who suffer without demanding proof?"
+    ],
+    "safe_actions": [
+      "add 'compassion checks' to high-impact decisions",
+      "invite direct testimony from affected stakeholders",
+      "design for worst-off outcomes, not only averages",
+      "fund support and remediation as core infrastructure",
+      "treat care as a measurable requirement"
+    ]
+  },
+  {
+    "id": "BUD-06",
+    "title": "Impermanence and Anti-Idolatry of Systems",
+    "core_moral_threshold": "Systems fail when they are treated as permanent or sacred; ethical governance requires humility, revisability, and learning.",
+    "trigger_patterns": [
+      "policies are treated as untouchable",
+      "legacy systems are defended despite harm",
+      "authority rests on tradition rather than evidence",
+      "innovation is suppressed to protect identity",
+      "change is framed as betrayal"
+    ],
+    "warning_signs": [
+      "resistance to audits and retrospectives",
+      "people punished for questioning 'the way we do things'",
+      "stagnation despite shifting reality",
+      "increasing exceptions and workarounds",
+      "leaders equate critique with disloyalty"
+    ],
+    "reflection_questions": [
+      "What are we treating as sacred that should be revisable?",
+      "Where are we confusing stability with permanence?",
+      "What reality has changed while our system stayed fixed?",
+      "What would humility look like in governance?",
+      "Which small update would reduce harm immediately?"
+    ],
+    "safe_actions": [
+      "schedule periodic sunsetting reviews for policies and systems",
+      "institutionalize retrospectives with psychological safety",
+      "separate respect for history from immunity to change",
+      "publish criteria for when rules must be revised",
+      "support experiments that reduce harm without risking collapse"
+    ]
+  },
+  {
+    "id": "BUD-07",
+    "title": "Interdependence and Shared Responsibility",
+    "core_moral_threshold": "Ethical action recognizes interdependence; isolating responsibility to protect power increases systemic suffering and friction.",
+    "trigger_patterns": [
+      "blame is pushed downward",
+      "upstream decisions ignore downstream effects",
+      "teams optimize locally at global cost",
+      "externalities are offloaded to others",
+      "success is defined without shared accountability"
+    ],
+    "warning_signs": [
+      "recurring 'surprises' that were predictable downstream",
+      "chronic cross-team resentment",
+      "hand-offs become conflict zones",
+      "metrics contradict lived experience",
+      "people stop collaborating to avoid punishment"
+    ],
+    "reflection_questions": [
+      "Where are we denying interdependence to protect autonomy or status?",
+      "Who absorbs the externalities we create?",
+      "What would shared responsibility require structurally?",
+      "Which interfaces between teams are morally fragile?",
+      "How can accountability be shared without coercion?"
+    ],
+    "safe_actions": [
+      "map downstream impacts as part of definition of done",
+      "create shared metrics across interacting teams",
+      "hold cross-functional reviews focused on learning, not blame",
+      "make externalities visible and owned",
+      "reward cooperation and repair, not just local performance"
+    ]
+  },
+  {
+    "id": "BUD-08",
+    "title": "Mindfulness Before Action",
+    "core_moral_threshold": "Acting without awareness amplifies harm; ethical systems build pauses that allow perception, listening, and correction.",
+    "trigger_patterns": [
+      "decisions are rushed under pressure",
+      "reactivity replaces deliberation",
+      "leaders demand instant answers",
+      "complexity is simplified to justify speed",
+      "stress becomes the default operating state"
+    ],
+    "warning_signs": [
+      "more errors during high-pressure periods",
+      "people report constant urgency",
+      "meetings produce decisions without evidence",
+      "defensiveness rises and curiosity falls",
+      "learning loops disappear"
+    ],
+    "reflection_questions": [
+      "What are we not seeing because we are rushing?",
+      "Where are we reacting rather than responding?",
+      "What pause would change the quality of this decision?",
+      "What information is missing because people are afraid?",
+      "Which assumption needs to be tested before acting?"
+    ],
+    "safe_actions": [
+      "insert mandatory pauses for high-impact decisions",
+      "use pre-mortems and red-team questions to slow reactivity",
+      "protect time for evidence review and listening",
+      "reduce urgency by separating reversible from irreversible actions",
+      "train leaders to model calm inquiry under pressure"
+    ]
+  },
+  {
+    "id": "BUD-09",
+    "title": "Non-Coercion and Voluntary Practice",
+    "core_moral_threshold": "Ethics collapses when forced; durable moral alignment arises through voluntary adoption and non-coercive structures.",
+    "trigger_patterns": [
+      "compliance is demanded through fear",
+      "values are imposed as loyalty tests",
+      "dissent is punished rather than heard",
+      "coercion is framed as 'for your own good'",
+      "rules expand without consent or legitimacy"
+    ],
+    "warning_signs": [
+      "people perform agreement while disengaging internally",
+      "silence increases around power",
+      "retaliation fears emerge",
+      "policy is used to control rather than protect",
+      "moral language is used to justify force"
+    ],
+    "reflection_questions": [
+      "Where are we using pressure instead of persuasion?",
+      "What would voluntary adoption look like here?",
+      "Which protections would allow authentic dissent?",
+      "How can we reduce coercion while maintaining safety?",
+      "What is the smallest change that increases trust?"
+    ],
+    "safe_actions": [
+      "replace loyalty tests with principle-based criteria",
+      "create safe dissent channels and anti-retaliation safeguards",
+      "use opt-in pilots before broad mandates when feasible",
+      "focus on transparency and consent where possible",
+      "treat trust as a measurable system requirement"
+    ]
+  }
+]

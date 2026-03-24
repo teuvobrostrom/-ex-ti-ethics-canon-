@@ -1,0 +1,299 @@
+[
+  {
+    "id": "JUD-01",
+    "title": "Human Dignity as Non-Negotiable",
+    "core_moral_threshold": "A system is moral only when every person is treated as possessing inherent dignity; no one may be reduced to a tool, scapegoat, or expendable cost.",
+    "trigger_patterns": [
+      "people are treated as replaceable units",
+      "humiliation is used as control",
+      "harm is justified for 'the greater good'",
+      "minorities are blamed to preserve order",
+      "rights depend on loyalty to power"
+    ],
+    "warning_signs": [
+      "dehumanizing labels in leadership speech",
+      "public shaming in meetings or comms",
+      "policy exceptions for the powerful",
+      "increasing fear among vulnerable groups",
+      "normalization of disrespect"
+    ],
+    "reflection_questions": [
+      "Who is being diminished or humiliated by this system?",
+      "Where are people treated as means rather than ends?",
+      "What would change if dignity were the first constraint?",
+      "Who becomes a scapegoat when pressure rises?",
+      "What repair is owed when dignity is breached?"
+    ],
+    "safe_actions": [
+      "ban humiliating practices and model respectful discourse",
+      "document dignity-impact for high-stakes decisions",
+      "create protection pathways for vulnerable stakeholders",
+      "require repair actions when dignity harm occurs",
+      "treat dignity as a measurable governance requirement"
+    ]
+  },
+  {
+    "id": "JUD-02",
+    "title": "Responsibility Over Substitution",
+    "core_moral_threshold": "Ethical repair requires personal and collective responsibility; guilt cannot be transferred to an innocent party to preserve the system.",
+    "trigger_patterns": [
+      "blame is shifted to protect leadership",
+      "scapegoating replaces accountability",
+      "suffering is framed as redemptive necessity",
+      "people are punished for systemic failures",
+      "confession is demanded without structural change"
+    ],
+    "warning_signs": [
+      "recurring 'fall guys' after incidents",
+      "leaders avoid ownership in post-mortems",
+      "punishment increases while learning decreases",
+      "people hide problems to avoid blame",
+      "morale collapses after investigations"
+    ],
+    "reflection_questions": [
+      "Who is being asked to carry responsibility that is not theirs?",
+      "What systemic cause is being disguised as an individual fault?",
+      "What would genuine repair look like here?",
+      "Where does accountability end and scapegoating begin?",
+      "What commitments prevent repetition?"
+    ],
+    "safe_actions": [
+      "separate accountability from blame in incident reviews",
+      "require leaders to own upstream causes and corrections",
+      "establish repair commitments with timelines and owners",
+      "protect those who surface problems early",
+      "track recurrence and learning, not just punishment"
+    ]
+  },
+  {
+    "id": "JUD-03",
+    "title": "Law as Protection, Not Domination",
+    "core_moral_threshold": "Rules are moral only when they protect the vulnerable and constrain power; law becomes corrupt when used to dominate or exempt the powerful.",
+    "trigger_patterns": [
+      "rules are enforced selectively",
+      "policy is weaponized against dissent",
+      "exceptions are granted to insiders",
+      "procedures replace moral judgment",
+      "compliance is used as a shield for harm"
+    ],
+    "warning_signs": [
+      "inconsistent outcomes for similar cases",
+      "rapid proliferation of rules after criticism",
+      "fear of reporting misconduct",
+      "legalistic arguments used to dismiss harm",
+      "rule-following replaces responsibility"
+    ],
+    "reflection_questions": [
+      "Whom does this rule protect, and whom does it burden?",
+      "Where are rules being used to silence rather than safeguard?",
+      "Which exceptions reveal power capture?",
+      "What would fair enforcement require?",
+      "Where must responsibility override procedure?"
+    ],
+    "safe_actions": [
+      "audit rule enforcement for consistency and bias",
+      "publish clear exception criteria and approvals",
+      "add protected channels for principled dissent",
+      "require harm review alongside compliance checks",
+      "simplify rules that primarily serve control"
+    ]
+  },
+  {
+    "id": "JUD-04",
+    "title": "Argument as a Truth Method",
+    "core_moral_threshold": "Truth is strengthened through structured disagreement; systems decay when debate is punished and unanimity is manufactured.",
+    "trigger_patterns": [
+      "disagreement is labeled disloyalty",
+      "leaders demand consensus quickly",
+      "questions are treated as threats",
+      "information is filtered before reaching decision-makers",
+      "fear replaces curiosity"
+    ],
+    "warning_signs": [
+      "silence in meetings despite obvious risks",
+      "only one narrative is allowed publicly",
+      "people speak privately but not formally",
+      "retaliation rumors after dissent",
+      "decisions made without counter-arguments"
+    ],
+    "reflection_questions": [
+      "Where is disagreement being suppressed?",
+      "Which arguments are missing from the table?",
+      "Who cannot speak without risk?",
+      "What would a safe debate structure look like?",
+      "How can dissent be protected without forcing agreement?"
+    ],
+    "safe_actions": [
+      "establish red-team roles and dissent protocols",
+      "separate critique of ideas from critique of persons",
+      "create psychological safety in key decision forums",
+      "require at least one documented counter-argument in major decisions",
+      "reward truth-telling behaviors"
+    ]
+  },
+  {
+    "id": "JUD-05",
+    "title": "Justice and Fair Measure",
+    "core_moral_threshold": "A system is moral only when it uses fair measures and consistent standards; distortion of measures is a core corruption mechanism.",
+    "trigger_patterns": [
+      "metrics are gamed to appear successful",
+      "targets incentivize deception",
+      "performance indicators ignore real-world impact",
+      "exceptions hide failure",
+      "reporting is shaped to please power"
+    ],
+    "warning_signs": [
+      "widening gap between metrics and lived reality",
+      "surprise failures despite 'green dashboards'",
+      "punishment for bad news",
+      "frequent redefinition of success",
+      "incentives that reward misreporting"
+    ],
+    "reflection_questions": [
+      "What measures are distorted, and who benefits?",
+      "Where do incentives reward deception?",
+      "What reality is being hidden by the dashboard?",
+      "What would a fair measure look like here?",
+      "What would we report if fear disappeared?"
+    ],
+    "safe_actions": [
+      "audit metrics for gaming and perverse incentives",
+      "add ground-truth sampling and independent verification",
+      "protect messengers of bad news",
+      "publish definitions of metrics and changes over time",
+      "tie rewards to integrity signals, not only outcomes"
+    ]
+  },
+  {
+    "id": "JUD-06",
+    "title": "Truth-Telling Without Retaliation",
+    "core_moral_threshold": "Truth cannot flourish where retaliation exists; moral systems structurally protect those who speak in good faith.",
+    "trigger_patterns": [
+      "messengers are punished",
+      "bad news is filtered upward",
+      "leadership equates truth with disloyalty",
+      "whistleblowing becomes necessary",
+      "fear shapes reporting"
+    ],
+    "warning_signs": [
+      "unusually optimistic reporting despite evident problems",
+      "people avoid documenting concerns",
+      "exit interviews mention fear",
+      "informal backchannels replace formal processes",
+      "leaders demand 'positive framing'"
+    ],
+    "reflection_questions": [
+      "What truths are missing because people are afraid?",
+      "Who has been punished for honesty?",
+      "What protections are absent?",
+      "How can truth be surfaced without coercion?",
+      "What would restore trust in reporting?"
+    ],
+    "safe_actions": [
+      "implement anti-retaliation safeguards with independent oversight",
+      "create confidential reporting and mediation channels",
+      "separate evaluation of people from evaluation of truth claims",
+      "require leaders to respond with corrective action, not defensiveness",
+      "track psychological safety as a leading indicator"
+    ]
+  },
+  {
+    "id": "JUD-07",
+    "title": "Boundaries on Power",
+    "core_moral_threshold": "Power must be constrained by explicit limits; a system becomes immoral when any person or group becomes the final authority.",
+    "trigger_patterns": [
+      "leader becomes source of truth",
+      "rules bend for insiders",
+      "institutions are captured by personal loyalty",
+      "accountability is removed or weakened",
+      "fear of contradicting power"
+    ],
+    "warning_signs": [
+      "person-centered language dominates governance",
+      "independent bodies lose influence",
+      "critical voices disappear from forums",
+      "exceptions multiply around power",
+      "decisions lack traceable rationale"
+    ],
+    "reflection_questions": [
+      "Where has authority become personalized?",
+      "Which limits on power are missing or unenforced?",
+      "Who cannot question decisions safely?",
+      "What structure must stand above every individual?",
+      "How can accountability be made non-optional?"
+    ],
+    "safe_actions": [
+      "anchor authority in written principles and independent oversight",
+      "separate person from role in decision records",
+      "publish accountability mechanisms and escalation paths",
+      "establish protected dissent and review processes",
+      "limit exception power with transparent approvals"
+    ]
+  },
+  {
+    "id": "JUD-08",
+    "title": "Repair and Return",
+    "core_moral_threshold": "Moral life depends on repair after harm; systems that cannot admit wrongs cannot evolve toward justice.",
+    "trigger_patterns": [
+      "errors are denied to protect image",
+      "apologies are performative without repair",
+      "harm reports are dismissed",
+      "learning is replaced by PR",
+      "victims are blamed for outcomes"
+    ],
+    "warning_signs": [
+      "repeated harms without systemic change",
+      "defensive communications during crises",
+      "lack of restitution or remediation pathways",
+      "people stop reporting issues",
+      "trust declines after incidents"
+    ],
+    "reflection_questions": [
+      "What harm requires repair here?",
+      "What would meaningful restitution look like?",
+      "What prevents admitting error—fear, pride, incentives?",
+      "How can repair be made structural, not personal?",
+      "What would 'return' look like in practice?"
+    ],
+    "safe_actions": [
+      "create clear remediation and restitution mechanisms",
+      "publish post-incident learning reports and actions",
+      "separate accountability from humiliation",
+      "resource repair work as core infrastructure",
+      "measure trust recovery over time"
+    ]
+  },
+  {
+    "id": "JUD-09",
+    "title": "Non-Coercion and Voluntary Covenant",
+    "core_moral_threshold": "Durable moral alignment cannot be forced; systems must rely on voluntary commitment, consent, and principled limits rather than compulsion.",
+    "trigger_patterns": [
+      "values become loyalty tests",
+      "compliance is driven by fear",
+      "dissent is punished",
+      "coercion is justified as virtue",
+      "rules expand beyond legitimacy"
+    ],
+    "warning_signs": [
+      "performative agreement and private disengagement",
+      "silence around power",
+      "retaliation fears",
+      "increased rule burden without trust",
+      "moral language used to justify force"
+    ],
+    "reflection_questions": [
+      "Where are we using pressure instead of consent?",
+      "What would voluntary commitment look like here?",
+      "Which protections enable authentic participation?",
+      "How do we reduce coercion while preserving safety?",
+      "What is the smallest change that increases trust?"
+    ],
+    "safe_actions": [
+      "replace loyalty tests with principle-based governance",
+      "build opt-in pilots where feasible",
+      "protect dissent through independent safeguards",
+      "increase transparency and explainability of rules",
+      "treat trust as a measurable system requirement"
+    ]
+  }
+]
