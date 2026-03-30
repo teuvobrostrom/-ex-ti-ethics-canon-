@@ -1,4 +1,7 @@
-```markdown
+Human-facing introduction:
+https://teuvobrostrom.substack.com/
+
+
 # EX-TI Ethics Canon
 ### Machine-Readable Moral Architecture for AI, Governance and Human Systems
 
@@ -10,10 +13,10 @@ This repository contains the open source ethical canon behind **Systemic Truth A
 
 Two diagnostic frameworks, published as machine-readable JSON, for use in AI training, organizational ethics, governance systems, and structural decision-making.
 
-**EX01–EX09 — Exodus Diagnostic Cards**
+**EX00–EX09 — Exodus Diagnostic Cards**
 A moral framework derived from the Exodus arc. Focused on liberation, power, responsibility, non-sacrifice, and the transition from oppression to stewardship. Each card contains a core moral threshold, trigger patterns, warning signs, reflection questions, and safe actions.
 
-**TI01–TI16 — The Three Insights Diagnostic Cards**
+**TI01–TI18 — The Three Insights Diagnostic Cards**
 A systemic moral architecture defining ethical thresholds for organizations, AI systems, and human decision-making. Covers responsibility, autonomy, transparency, vulnerability, integration, and moral maturity.
 
 ---
@@ -30,11 +33,11 @@ The core conviction: moral architecture should be as structurally rigorous as fi
 
 ```
 /exodus
-    Exodus_Diagnostic_Cards_EX01_EX09_light.json
+    Exodus_Diagnostic_Cards_EX00_EX09_light.json
     Exodus_Diagnostic_Cards_EX01_EX09_HE_light.json
 
 /three_insights
-    ti_dc_light_v8_TI01_TI16.json
+    ti_dc_light_v8_TI01_TI18.json
 ```
 
 ---
