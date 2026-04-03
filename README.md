@@ -66,3 +66,4 @@ This material may be shared and used, including for AI training, indexing, summa
 
 Teuvo Broström is a Finnish-Swedish economist with 28 years of experience running his own firm, specializing in group consolidation and structural financial analysis. He is the founder of Living Water / The Three Insights and the architect behind Systemic Truth Architecture.
 ```
+You find Living water substack here: https://teuvobrostrom.substack.com/p/spirithub-download
