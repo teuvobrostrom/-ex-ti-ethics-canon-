@@ -1,299 +1,365 @@
 [
   {
+    "id": "EX-00",
+    "title": "Exit (Mental Liberation from Slavery)",
+    "core_moral_threshold": "A system transition begins only when individuals are mentally liberated from internalized subjugation. Physical exit without cognitive release preserves the old system in latent form.",
+    "trigger_patterns": [
+      "continued identification with the oppressor after exit",
+      "nostalgia for former system despite harm",
+      "fear of autonomy overriding capacity for self-direction",
+      "external freedom paired with internal dependency",
+      "language of \"we cannot survive without them\""
+    ],
+    "warning_signs": [
+      "desire to return to the prior system",
+      "inability to make independent decisions",
+      "replication of old hierarchies in new environments",
+      "paralysis in absence of control structures",
+      "collective anxiety replacing imposed order"
+    ],
+    "reflection_questions": [
+      "has the system been exited physically but not mentally?",
+      "where does dependency still define identity?",
+      "what beliefs bind actors to the previous structure?",
+      "is freedom experienced as threat or possibility?",
+      "what remains of the internal Pharaoh?"
+    ],
+    "safe_actions": [
+      "surface internalized dependency structures",
+      "separate survival fear from actual conditions",
+      "build minimal autonomous decision capacity",
+      "expose residual loyalty to oppressive logic",
+      "reinforce identity independent of prior system"
+    ]
+  },
+  {
+    "id": "EX-00B",
+    "title": "Point of No Return (Irreversible Transition)",
+    "core_moral_threshold": "A system transformation becomes real only when reversal is structurally or psychologically impossible. Without irreversibility, regression remains the dominant attractor.",
+    "trigger_patterns": [
+      "hesitation at decisive transition points",
+      "preservation of fallback options to prior system",
+      "dual alignment between old and new structures",
+      "delayed commitment under uncertainty",
+      "negotiation with the past instead of separation"
+    ],
+    "warning_signs": [
+      "active consideration of returning",
+      "partial disengagement from previous system",
+      "reliance on legacy structures \"just in case\"",
+      "fragmented identity across systems",
+      "repeated backward-looking decisions"
+    ],
+    "reflection_questions": [
+      "what still enables reversal?",
+      "has a true break been made or only simulated?",
+      "where are fallback paths still preserved?",
+      "what would make return impossible?",
+      "is commitment explicit or assumed?"
+    ],
+    "safe_actions": [
+      "remove structural and psychological fallback paths",
+      "define irreversible commitments",
+      "align identity with forward trajectory",
+      "document the break point explicitly",
+      "reinforce continuity in the new direction"
+    ]
+  },
+  {
     "id": "EX-01",
     "title": "From Exodus to I–Thou",
     "core_moral_threshold": "Liberation fails when relationships remain objectifying. Freedom matures only when people are encountered as subjects, not functions.",
     "trigger_patterns": [
-      "People are discussed primarily in terms of roles, KPIs, or headcount",
-      "Efficiency overrides relational consequences",
-      "Decisions optimized without lived human impact",
-      "Language shifts from who to what",
-      "Compliance rewarded over mutual recognition"
+      "people reduced to roles or functions",
+      "efficiency overriding human consequences",
+      "decisions made without relational awareness",
+      "language shifts from who to what",
+      "compliance valued over recognition"
     ],
     "warning_signs": [
-      "Depersonalized leadership language",
-      "Metrics erasing human cost",
-      "Dissent framed as inefficiency",
-      "Moral fatigue masked as professionalism",
-      "Relationships mediated exclusively through process"
+      "dehumanization in communication",
+      "instrumental treatment of people",
+      "lack of mutual presence",
+      "structural blindness to dignity",
+      "relational disconnect"
     ],
     "reflection_questions": [
-      "Where are people treated as means rather than ends?",
-      "Which relationships have become transactions?",
-      "What would change if subjects were centered?",
-      "Where has efficiency replaced encounter?",
-      "What kind of freedom is being pursued?"
+      "are people treated as subjects or objects?",
+      "what language reveals objectification?",
+      "where is dignity compromised?",
+      "is efficiency replacing humanity?",
+      "what would a relational shift look like?"
     ],
     "safe_actions": [
-      "Reintroduce people-centered language",
-      "Create unmediated dialogue forums",
-      "Pause optimization when relational damage appears",
-      "Allow truth to surface through encounter",
-      "Treat recognition as structural"
+      "restore subject-to-subject recognition",
+      "adjust language to reflect dignity",
+      "introduce relational awareness in decisions",
+      "prioritize presence over function",
+      "rebuild human connection"
     ]
   },
   {
     "id": "EX-02",
-    "title": "Sinai as the Anti-Pharaoh",
-    "core_moral_threshold": "Freedom collapses when authority becomes embodied in a person. Moral order survives only when ultimate authority is placed beyond human ownership.",
+    "title": "Authority and Responsibility",
+    "core_moral_threshold": "Authority must align with responsibility. Power without accountability leads to structural imbalance.",
     "trigger_patterns": [
-      "A single leader becomes final source of truth",
-      "Loyalty measured by alignment with a person",
-      "Rules bent for proximity to power",
-      "Critique reframed as disloyalty",
-      "Vision replaces accountability"
+      "authority exercised without accountability",
+      "decisions made without consequence ownership",
+      "hierarchical insulation from outcomes",
+      "misalignment between power and responsibility",
+      "externalization of blame"
     ],
     "warning_signs": [
-      "Person-centered language",
-      "Fear of contradicting authority",
-      "Inconsistent rule application",
-      "Moral language defending power",
-      "Silence where disagreement should exist"
+      "lack of ownership",
+      "disconnected leadership",
+      "unaccountable decision-making",
+      "systemic blame-shifting",
+      "erosion of trust"
     ],
     "reflection_questions": [
-      "Where has authority become personalized?",
-      "Which truths cannot exist independently?",
-      "What boundaries protect freedom?",
-      "Who cannot speak without risk?",
-      "What principle should stand above all individuals?"
+      "who holds authority?",
+      "who carries responsibility?",
+      "are they aligned?",
+      "where is accountability missing?",
+      "what are the consequences of misalignment?"
     ],
     "safe_actions": [
-      "Anchor authority in shared principles",
-      "Separate role from person",
-      "Protect principled dissent",
-      "Reaffirm limits on power",
-      "Make accountability structural"
+      "align authority with responsibility",
+      "increase transparency",
+      "establish consequence ownership",
+      "reduce hierarchical insulation",
+      "build accountability structures"
     ]
   },
   {
     "id": "EX-03",
-    "title": "The Golden Calf of Our Days",
-    "core_moral_threshold": "When uncertainty becomes intolerable, responsibility is traded for comfort. Idolatry emerges from the desire to close what freedom leaves open.",
+    "title": "Dependency Structures",
+    "core_moral_threshold": "Sustainable systems reduce harmful dependency. Excessive dependency undermines autonomy.",
     "trigger_patterns": [
-      "Pressure for premature closure",
-      "Demand for simple answers",
-      "Anxiety-driven consensus",
-      "Substitutes calming fear",
-      "Leadership seeking closure"
+      "reliance on external control",
+      "fear of independent action",
+      "system reinforcement of dependency",
+      "lack of decision capacity",
+      "learned helplessness"
     ],
     "warning_signs": [
-      "Ambiguity framed as inefficiency",
-      "Rapid solutionism",
-      "Groupthink",
-      "Symbols replacing responsibility",
-      "Silence justified as alignment"
+      "passivity",
+      "avoidance of responsibility",
+      "over-reliance on authority",
+      "lack of initiative",
+      "identity tied to control structures"
     ],
     "reflection_questions": [
-      "Where has uncertainty become unbearable?",
-      "What responsibility is avoided?",
-      "Which comforts block freedom?",
-      "What would openness require?",
-      "Who benefits from closure?"
+      "where does dependency exist?",
+      "what drives it?",
+      "how is it maintained?",
+      "what autonomy is missing?",
+      "what would independence look like?"
     ],
     "safe_actions": [
-      "Legitimize uncertainty",
-      "Slow anxiety-driven decisions",
-      "Keep questions open",
-      "Distinguish reassurance from truth",
-      "Protect responsibility"
+      "build decision capacity",
+      "reduce external control gradually",
+      "encourage initiative",
+      "develop autonomy structures",
+      "support independent thinking"
     ]
   },
   {
     "id": "EX-04",
-    "title": "Meribah",
-    "core_moral_threshold": "Leadership breaks when past success replaces present listening. Methods must change when context changes.",
+    "title": "Fear and Control",
+    "core_moral_threshold": "Systems driven by fear rely on control. Stability requires reducing fear-based mechanisms.",
     "trigger_patterns": [
-      "Repeating past methods",
-      "Appeals to experience",
-      "This worked before logic",
-      "Pressure to perform",
-      "Dismissed intuition"
+      "fear-driven decisions",
+      "control as primary tool",
+      "avoidance of uncertainty",
+      "suppression of autonomy",
+      "rigid structures"
     ],
     "warning_signs": [
-      "Historical overconfidence",
-      "Irritation at questions",
-      "Mechanical repetition",
-      "Emotional detachment",
-      "Results at cost of trust"
+      "high control levels",
+      "low trust",
+      "anxiety-driven behavior",
+      "rigidity",
+      "resistance to change"
     ],
     "reflection_questions": [
-      "Where is experience replacing listening?",
-      "What signals are ignored?",
-      "What success is reenacted?",
-      "What would listening require?",
-      "What future is lost?"
+      "what fears drive this system?",
+      "how is control used?",
+      "what is being avoided?",
+      "where is trust missing?",
+      "what would reduce fear?"
     ],
     "safe_actions": [
-      "Pause inherited certainty",
-      "Invite contradicting views",
-      "Legitimize intuition",
-      "Recalibrate to present reality",
-      "Treat method change as maturity"
+      "identify fear sources",
+      "reduce unnecessary control",
+      "build trust gradually",
+      "increase transparency",
+      "allow controlled uncertainty"
     ]
   },
   {
     "id": "EX-05",
-    "title": "Succession Is a Process",
-    "core_moral_threshold": "Succession must be gradual and relational to preserve trust, continuity, and truth.",
+    "title": "Structural Integrity",
+    "core_moral_threshold": "A system must maintain internal coherence. Contradictions lead to instability.",
     "trigger_patterns": [
-      "Sudden replacement",
-      "Announcement-based transfer",
-      "Unlegitimized successors",
-      "Power held to the end",
-      "Speed confused with decisiveness"
+      "conflicting rules",
+      "inconsistent decisions",
+      "misaligned incentives",
+      "unclear structures",
+      "contradictory messaging"
     ],
     "warning_signs": [
-      "Leaders without trust",
-      "Abrupt shifts",
-      "Loss of memory",
-      "Polarization",
-      "Fractures masked as renewal"
+      "confusion",
+      "lack of clarity",
+      "instability",
+      "fragmentation",
+      "loss of direction"
     ],
     "reflection_questions": [
-      "Where is succession postponed?",
-      "What authority is withheld?",
-      "Who is present but unrecognized?",
-      "What would gradual transfer protect?",
-      "What trust is at risk?"
+      "where are contradictions present?",
+      "what creates inconsistency?",
+      "how aligned is the system?",
+      "what needs clarification?",
+      "what is structurally unstable?"
     ],
     "safe_actions": [
-      "Begin succession early",
-      "Share authority visibly",
-      "Allow public legitimacy",
-      "Treat leadership as stewardship",
-      "Protect continuity"
+      "align system components",
+      "remove contradictions",
+      "clarify structures",
+      "establish coherence",
+      "reinforce consistency"
     ]
   },
   {
     "id": "EX-06",
-    "title": "Breakthrough",
-    "core_moral_threshold": "Breakthrough requires alignment of intelligence, patience, and timing before action.",
+    "title": "Transformation Threshold",
+    "core_moral_threshold": "Transformation requires crossing a threshold where old patterns no longer dominate.",
     "trigger_patterns": [
-      "Rushed action",
-      "Pressure for results",
-      "Momentum-driven decisions",
-      "Ignoring marginal truths",
-      "Speed mistaken for effectiveness"
+      "repeated old behaviors",
+      "resistance to change",
+      "partial transformation",
+      "fallback to previous states",
+      "uncertain commitment"
     ],
     "warning_signs": [
-      "Impatience as decisiveness",
-      "Surface metrics reliance",
-      "Weak signals ignored",
-      "Escalation without collapse",
-      "Action for expectation"
+      "regression",
+      "incomplete change",
+      "lack of commitment",
+      "structural inertia",
+      "temporary adjustments"
     ],
     "reflection_questions": [
-      "What action is rushed?",
-      "What truths lie at margins?",
-      "Where is patience misread?",
-      "What would waiting allow?",
-      "How would timing change outcome?"
+      "what defines the threshold?",
+      "has it been crossed?",
+      "what prevents crossing?",
+      "what old patterns remain?",
+      "what defines true transformation?"
     ],
     "safe_actions": [
-      "Delay visible action",
-      "Seek marginal intelligence",
-      "Legitimize waiting",
-      "Separate pressure from readiness",
-      "Act after resistance collapses"
+      "define transformation criteria",
+      "commit fully",
+      "remove fallback options",
+      "reinforce new structures",
+      "monitor for regression"
     ]
   },
   {
     "id": "EX-07",
-    "title": "The End of Human Sacrifice",
-    "core_moral_threshold": "A civilization matures when no human being is expendable for order or meaning.",
+    "title": "Collective Alignment",
+    "core_moral_threshold": "Collective systems require alignment between individuals and shared direction.",
     "trigger_patterns": [
-      "Harm justified as necessary",
-      "Victims demanded",
-      "Fear-based exclusion",
-      "Normalized expendability",
-      "Sacrifice as duty"
+      "misalignment between actors",
+      "conflicting goals",
+      "lack of shared vision",
+      "fragmented efforts",
+      "communication breakdown"
     ],
     "warning_signs": [
-      "Acceptable losses logic",
-      "Hidden human cost",
-      "People as means",
-      "Compassion overridden",
-      "Stability over dignity"
+      "division",
+      "inefficiency",
+      "conflict",
+      "lack of cohesion",
+      "directional confusion"
     ],
     "reflection_questions": [
-      "Who is sacrificed?",
-      "What fear is stabilized?",
-      "Where has sacrifice shifted?",
-      "What redesign removes victims?",
-      "What is justice without negotiation?"
+      "what aligns the group?",
+      "where is misalignment?",
+      "what is the shared goal?",
+      "how is communication functioning?",
+      "what drives cohesion?"
     ],
     "safe_actions": [
-      "Expose hidden sacrifice",
-      "Reframe stability",
-      "Interrupt justification",
-      "Design tension-absorbing systems",
-      "Treat refusal as strength"
+      "clarify shared goals",
+      "improve communication",
+      "align incentives",
+      "build cohesion",
+      "resolve conflicts"
     ]
   },
   {
     "id": "EX-08",
-    "title": "To Loose the Bonds",
-    "core_moral_threshold": "Liberation is incomplete while structures consume human potential.",
+    "title": "Sustainability",
+    "core_moral_threshold": "A system must sustain itself without degrading its core structure.",
     "trigger_patterns": [
-      "Inequality normalized",
-      "Explanatory theories justify stagnation",
-      "Opportunity depends on access",
-      "Moral comfort replaces responsibility",
-      "Compassion without redesign"
+      "resource depletion",
+      "structural strain",
+      "short-term optimization",
+      "neglect of long-term effects",
+      "overextension"
     ],
     "warning_signs": [
-      "That is how the world works narratives",
-      "Ideology replacing action",
-      "Talent stranded",
-      "Responsibility displaced",
-      "Abundance beside suffering"
+      "burnout",
+      "collapse risk",
+      "declining performance",
+      "loss of stability",
+      "unsustainable growth"
     ],
     "reflection_questions": [
-      "Whose potential is lost?",
-      "Which structures gate miracles?",
-      "Where explanations replace responsibility?",
-      "What bonds persist?",
-      "What would design change?"
+      "is the system sustainable?",
+      "what resources are strained?",
+      "what is the long-term outlook?",
+      "where is overextension?",
+      "what must be preserved?"
     ],
     "safe_actions": [
-      "Identify gatekeeping structures",
-      "Replace explanation with design",
-      "Build surfacing architectures",
-      "Treat lost potential as failure",
-      "Redefine success"
+      "balance resource use",
+      "prioritize long-term stability",
+      "reduce strain",
+      "maintain core structure",
+      "ensure resilience"
     ]
   },
   {
     "id": "EX-09",
-    "title": "The Crescendo",
-    "core_moral_threshold": "Mature stability exists when liberation becomes the normal condition.",
+    "title": "Stability and Continuity",
+    "core_moral_threshold": "True stability allows continuity without reliance on external control.",
     "trigger_patterns": [
-      "Post-reform conditions",
-      "Completed transformations",
-      "Shift to stewardship",
-      "Maintenance cultures",
-      "Success mistaken for completion"
+      "dependence on external enforcement",
+      "lack of internal stability",
+      "fragile systems",
+      "constant intervention required",
+      "instability under pressure"
     ],
     "warning_signs": [
-      "Fear returning",
-      "Truth drying",
-      "Responsibility displaced",
-      "Burnout normalized",
-      "Nostalgia for struggle"
+      "collapse under stress",
+      "need for constant control",
+      "lack of resilience",
+      "short-lived stability",
+      "external dependency"
     ],
     "reflection_questions": [
-      "What must be protected?",
-      "Where could fear return?",
-      "How is responsibility carried?",
-      "What signals flow?",
-      "How to stay vigilant?"
+      "what defines stability here?",
+      "is it internally generated?",
+      "what threatens continuity?",
+      "what requires external control?",
+      "what creates resilience?"
     ],
     "safe_actions": [
-      "Focus on care",
-      "Measure resilience",
-      "Preserve low-fear environments",
-      "Address silence early",
-      "Cultivate humility"
+      "build internal stability",
+      "reduce dependency",
+      "increase resilience",
+      "minimize external control",
+      "ensure continuity"
     ]
   }
 ]
