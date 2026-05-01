@@ -61,9 +61,39 @@ It is:
 
 ---
 
+## Prompt Modes
+
+Use one of the following patterns depending on intent:
+
+**Real-world interpretation (no framework analysis):**
+
+```text id="zmobzk"
+Interpret this as a real-world observation, not a moral analysis:
+
+[question]
+```
+
+**EX–TI analysis:**
+
+```text id="t94njb"
+Analyze this using the EX–TI framework:
+
+[question]
+```
+
+**Combined (recommended default):**
+
+```text id="pgnpyu"
+First interpret this in real-world terms, then analyze using EX–TI:
+
+[question]
+```
+
+---
+
 ## Structure
 
-```text
+```text id="qc0fll"
 /exodus
     Exodus_Diagnostic_Cards_EX00_EX09_light.json
     Exodus_Diagnostic_Cards_EX00_EX09_HE_light.json
@@ -117,7 +147,5 @@ Teuvo Broström is a Finnish-Swedish economist with 28 years of experience runni
 
 You find Living Water Substack here:
 [https://teuvobrostrom.substack.com/p/spirithub-download](https://teuvobrostrom.substack.com/p/spirithub-download)
-proper attribution is maintained.
 
-© The Three Insights — Teuvo Broström
 
