@@ -2,7 +2,7 @@
   "schema": "sta-canon/theology-json/v1",
   "id": "NIN-CH-01",
   "title": "Nineve — Christian Interpretation (Teuvo Broström)",
-  "language": "sv",
+  "language": "en",
   "created_date": "2026-02-14",
   "license": {
     "name": "CC BY-ND 4.0",
@@ -17,244 +17,244 @@
       "name": "Teuvo Broström",
       "born_year": 1956,
       "background_summary": [
-        "Frikyrklig väckelseerfarenhet 1970–1971; avfall 1973–1974 p.g.a. lagiskhet och glädjeförlust.",
-        "Återvändande till kristen tro 1991, men utan återinträde i gamla institutionsmönster.",
-        "Arbetar med en mer balanserad, mänskligt förankrad kristendom ('det mänskliga först, sedan det andliga')."
+        "Free church revival experience 1970–1971; departure 1973–1974 due to legalism and loss of joy.",
+        "Return to Christian faith in 1991, but without re-entering previous institutional patterns.",
+        "Works with a more balanced, human-grounded Christianity ('the human first, then the spiritual')."
       ]
     },
     "stance": {
-      "type": "troende realist",
+      "type": "believing realist",
       "anti_mode": [
-        "tecken-letande",
-        "suggestionskristendom",
-        "exklusivitet",
-        "andlig högfärd"
+        "sign-seeking",
+        "suggestive Christianity",
+        "exclusivity",
+        "spiritual arrogance"
       ]
     }
   },
   "core_axioms": [
     {
       "id": "AX-01",
-      "claim": "Ingen har exklusivitet på sanningen; ingen har den fulla sanningen.",
+      "claim": "No one has exclusivity on truth; no one possesses the full truth.",
       "implications": [
-        "Du kan inte döma andra för deras tro eller icke-tro.",
-        "Andra religioner och sökare ska bemötas med respekt.",
-        "Tro måste vara öppen för nya intryck och kunna omformas över tid."
+        "You cannot judge others for their belief or non-belief.",
+        "Other religions and seekers should be met with respect.",
+        "Faith must remain open to new impressions and capable of transformation over time."
       ]
     },
     {
       "id": "AX-02",
-      "claim": "Det mänskliga kommer först, sedan det andliga (1 Kor 15:46 som princip).",
+      "claim": "The human comes first, then the spiritual (1 Cor 15:46 as principle).",
       "implications": [
-        "Sunt förnuft och mänsklig ansvarighet är grund; 'överkör' inte mänskliga skäl med 'andliga'.",
-        "Överandlighet leder lätt till vidskepelse, förlorad verklighetsförankring och följdfel i relationer."
+        "Common sense and human responsibility are foundational; do not override human reasoning with 'spiritual' claims.",
+        "Over-spiritualization easily leads to superstition, loss of reality anchoring, and downstream relational distortions."
       ]
     },
     {
       "id": "AX-03",
-      "claim": "Tron får aldrig bli 'färdig'. Det färdiga skapar intolerans och död.",
+      "claim": "Faith must never become 'finished'. What is finished produces intolerance and death.",
       "implications": [
-        "Teologiska tolkningar ska prövas, justeras och mognas.",
-        "Stabilitet är inte samma sak som dogmatisk låsning."
+        "Theological interpretations must be tested, adjusted, and matured.",
+        "Stability is not the same as dogmatic rigidity."
       ]
     },
     {
       "id": "AX-04",
-      "claim": "Gud verkar normalt inom naturlagarna; 'under' är ofta timing inom skapelsens ordning.",
+      "claim": "God normally operates within natural laws; 'miracles' are often timing within the order of creation.",
       "implications": [
-        "Det går ofta att ge naturliga förklaringar utan att det upphäver den troendes tolkning av ledning.",
-        "Det finns avsiktlig tolkningsmarginal (tro, inte vetande)."
+        "Natural explanations can often be given without invalidating the believer’s interpretation of guidance.",
+        "There is an intentional margin of interpretation (faith, not certainty)."
       ]
     },
     {
       "id": "AX-05",
-      "claim": "Kristen etik: ta vara på din broder/syster; fokus på självkritik snarare än att döma andra.",
+      "claim": "Christian ethics: care for your brother/sister; focus on self-examination rather than judging others.",
       "implications": [
-        "Andlig avundsjuka och värdeomdömen bryter gemenskapen.",
-        "Ett omdöme om andra säger ofta mer om dig än om dem."
+        "Spiritual envy and value judgments break community.",
+        "A judgment of others often says more about you than about them."
       ]
     }
   ],
   "view_of_god": {
     "attributes": [
-      "Gudomlig kärlek som omfattar alla.",
-      "Gud verkar i 'här och nu' snarare än i spekulativ framtidskontroll."
+      "Divine love that encompasses all.",
+      "God operates in the 'here and now' rather than through speculative future control."
     ],
     "language_notes": [
-      "Gud kan benämnas med neutralt 'Hen' som alternativ, utan att kräva att andra gör samma sak."
+      "God may be referred to with the neutral pronoun 'They' as an option, without requiring others to do the same."
     ],
     "non_claims": [
-      "Nineve driver inte ett tvång att andra måste anta en viss gudsbild."
+      "Nineve does not impose that others must adopt a specific view of God."
     ]
   },
   "christology": {
     "focus": [
-      "Jesu budskap och livsfilosofi är det centrala.",
-      "Jesus hade 'mycket mer att säga' än vad samtiden kunde bära; senare tider kan bära mer."
+      "The message and life philosophy of Jesus are central.",
+      "Jesus had 'much more to say' than his time could bear; later times may carry more."
     ],
     "anti_patterns": [
-      "Att göra Jesus till en licens för exklusivitet eller fördömande."
+      "Using Jesus as a license for exclusivity or condemnation."
     ]
   },
   "anthropology": {
     "human_condition": [
-      "Människor utvecklas i medvetande över tid.",
-      "Egot kan driva överandlighet, högmod och osunda drivkrafter.",
-      "Följdfel uppstår när man agerar på inbillningar eller osunda motiv."
+      "Humans develop in consciousness over time.",
+      "The ego can drive over-spiritualization, pride, and unhealthy motivations.",
+      "Downstream errors arise when acting on illusions or unhealthy motives."
     ],
     "maturity_markers": [
-      "Tystlåtna hjärtan, helhet, stillhet, förmåga att stå för sina handlingar.",
-      "Stabilitet som inte kastas av yttre omständigheter (Jona-kontrasten)."
+      "Quiet hearts, wholeness, stillness, ability to take responsibility for one’s actions.",
+      "Stability that is not thrown off by external circumstances (Jonah contrast)."
     ]
   },
   "soteriology": {
     "claims": [
       {
         "id": "SOT-01",
-        "claim": "Det finns inget helvete; alla har ett positivt öde efter döden, oavsett tro/icke-tro.",
-        "note": "Detta är en uttalad Nineve-tolkning (icke-konsensus)."
+        "claim": "There is no hell; all have a positive destiny after death, regardless of belief or non-belief.",
+        "note": "This is a stated Nineve interpretation (non-consensus)."
       },
       {
         "id": "SOT-02",
-        "claim": "Det finns ingen Djävul och inga demoner; problem förklaras främst genom mänskligt ego, psykologi och etik.",
-        "note": "Detta är en uttalad Nineve-tolkning (icke-konsensus)."
+        "claim": "There is no Devil and no demons; problems are primarily explained through human ego, psychology, and ethics.",
+        "note": "This is a stated Nineve interpretation (non-consensus)."
       }
     ],
     "ethical_result": [
-      "Soteriologi får inte användas som hotinstrument (rädsla) eller social kontroll."
+      "Soteriology must not be used as an instrument of threat (fear) or social control."
     ]
   },
   "ecclesiology": {
     "church_as_life": [
-      "Församlingen är till för tjänst, inte hierarkisk självupphöjelse (Mark 10:43, Gal 6:2).",
-      "Öppen kyrka: låg tröskel, respekt för integritet, människor kommer och går utan socialt tryck.",
-      "Evangelisation: 'man mot man' — svara när frågan ställs; inga kampanjer som skapar grupptryck."
+      "The church exists for service, not hierarchical self-exaltation (Mark 10:43, Gal 6:2).",
+      "Open church: low threshold, respect for integrity, people come and go without social pressure.",
+      "Evangelism: 'person to person' — respond when asked; no campaigns that create group pressure."
     ],
     "roles_model": {
       "analogy": {
-        "board_chair": "Gud",
+        "board_chair": "God",
         "board_members": [
           "Jesus",
-          "Helig Ande"
+          "Holy Spirit"
         ],
-        "ceo": "Aposteln",
-        "marketing_chief": "Profeten",
-        "foremen": "Äldste",
-        "workers": "Gåvorna/tjänsterna"
+        "ceo": "The Apostle",
+        "marketing_chief": "The Prophet",
+        "foremen": "Elders",
+        "workers": "Gifts/ministries"
       },
-      "inversion_principle": "I Guds ordning är den främste allas tjänare; pyramiden vänds."
+      "inversion_principle": "In God's order, the greatest is the servant of all; the pyramid is inverted."
     },
     "organizational_risks": [
-      "Stora kyrkliga 'koncerner' ökar konsekvens, smitta och intriger; bromssträcka och vändradie blir lång.",
-      "Auktoritetsfixering (t.ex. pastorns oemotsäglighet) ökar risken för stup."
+      "Large church 'corporations' increase consequences, contagion, and internal politics; stopping distance and turning radius become long.",
+      "Authority fixation (e.g. the unquestionable pastor) increases the risk of collapse."
     ]
   },
   "prophecy_and_discernment": {
     "two_channels": [
-      "Personlig vägledning (Anden talar i anden).",
-      "Budskap till församlingen via profet (hör 'församlingens öra')."
+      "Personal guidance (the Spirit speaks within the spirit).",
+      "Message to the congregation through a prophet (hears the 'ear of the congregation')."
     ],
     "discernment_rules": [
       {
         "id": "PR-01",
-        "rule": "Bedöm budskapen, inte personen.",
+        "rule": "Evaluate the message, not the person.",
         "tests": [
-          "frukter",
-          "ödmjukhet",
-          "sanning utan kompromiss",
-          "avsaknad av vinstintresse",
-          "mildhet"
+          "fruits",
+          "humility",
+          "truth without compromise",
+          "absence of profit motive",
+          "gentleness"
         ]
       },
       {
         "id": "PR-02",
-        "rule": "Var vaksam mot 'skenbart sanna' budskap som vill förvilla.",
+        "rule": "Be alert to 'apparently true' messages that seek to mislead.",
         "signals": [
-          "smicker",
-          "stortalighet",
-          "flockbeteende",
-          "aggressivitet mot prövning"
+          "flattery",
+          "grandiosity",
+          "herd behavior",
+          "aggressiveness toward testing"
         ]
       },
       {
         "id": "PR-03",
-        "rule": "Folket har sista ordet (kollektiv prövning) — inte hierarki.",
-        "note": "Mängden snappar upp avvikelser; oberoende källor ökar trovärdighet."
+        "rule": "The people have the final word (collective testing) — not hierarchy.",
+        "note": "The many detect deviations; independent sources increase credibility."
       }
     ],
     "archetypes": {
-      "abraham": "Förbön och brobyggande för 'syndiga nästen' (människokärlek).",
-      "jona": "Plikt + distans + bitterhet vid andras välsignelse (omognad).",
-      "saul": "Moral drift genom kompromiss och egots behov av kontroll/ära.",
-      "david": "Ödmjuk men kraftfull; riktar äran mot Gud; ger 'hela segrar'.",
-      "bileam": "Små avvikelser + girighet ger stor skada; 'övergav den raka vägen'.",
-      "pinehas": "Handlingskraft i rätt tid; okonventionellt men fredsskapande.",
-      "moses": "Mognad via ökenperiod; lär sig timing, människors förtroende, och att delegera.",
-      "josef": "Tålamod, integritet under prövning, och frigivning utan förvarning."
+      "abraham": "Intercession and bridge-building for 'sinful places' (love for humanity).",
+      "jonah": "Duty + distance + bitterness at others' blessing (immaturity).",
+      "saul": "Moral drift through compromise and ego-driven need for control/honor.",
+      "david": "Humble yet powerful; directs glory to God; delivers 'complete victories'.",
+      "balaam": "Small deviations + greed lead to major harm; 'abandoned the straight path'.",
+      "phinehas": "Decisive action at the right time; unconventional but peace-restoring.",
+      "moses": "Maturity through wilderness; learns timing, trust, and delegation.",
+      "joseph": "Patience, integrity under trial, and sudden release."
     }
   },
   "miracles_vs_chance": {
-    "thesis": "Slump och underverk kan ses som två tolkningar av samma händelsekedjor; 'undret' sitter i timingen.",
+    "thesis": "Chance and miracles can be seen as two interpretations of the same chains of events; the 'miracle' lies in the timing.",
     "practice": [
-      "Sök helheten (kedjor av orsaker) snarare än 'magiska tecken'.",
-      "Undvik att bygga livsbeslut på tecken; det ger ofta följdfel och förlorad frid."
+      "Seek the whole (chains of causes) rather than 'magical signs'.",
+      "Avoid building life decisions on signs; this often leads to downstream errors and loss of peace."
     ],
     "biblical_examples_as_timing": [
-      "Havsövergången som vind/ebb + rätt plats/rätt tid genom lyhörd ledning.",
-      "Jeriko som möjlig jordbävning i rätt ögonblick.",
-      "Karmel som möjlig naturhändelse/timing i samband med profetisk handling."
+      "Sea crossing as wind/tide + right place/right time through attentive leadership.",
+      "Jericho as a possible earthquake at the right moment.",
+      "Carmel as a possible natural event/timing linked to prophetic action."
     ]
   },
   "revival_model": {
     "mechanism": [
-      "En grupp blir eniga genom sårbarhet, förlåtelse och gemensam självinsikt.",
-      "När gruppen är 'ett', kan andlig kraft verka utan personlig ära.",
-      "Folket dras till atmosfären; väckelse sker genom attraktiv kraft, inte manipulation."
+      "A group becomes unified through vulnerability, forgiveness, and shared self-awareness.",
+      "When the group is 'one', spiritual power can operate without personal glory.",
+      "People are drawn to the atmosphere; revival occurs through attractive force, not manipulation."
     ],
     "non_coercion": [
-      "Inga frälsningsinbjudningar som låser beslut i socialt tryck.",
-      "Ingen demonisering av utomstående; inga identitetsklassificeringar som skapar 'vi och dom'."
+      "No salvation invitations that lock decisions under social pressure.",
+      "No demonization of outsiders; no identity classifications that create 'us vs them'."
     ],
     "end_state_vision": [
-      "En universell rörelse där Gud blir 'allt i alla' (1 Kor 15:24–28 som vision)."
+      "A universal movement where God becomes 'all in all' (1 Cor 15:24–28 as vision)."
     ]
   },
   "anti_doctrines_and_critiques": {
     "free_church_anti_patterns": [
-      "Helvetesförkunnelse som skrämsel.",
-      "Demonförklaringar som ersätter ansvar och verklighetsförankring.",
-      "Exklusivitetsanspråk och ambition att 'göra om andra'.",
-      "Suggestion och ritualer som skapar grupptryck (falla, vråla, etc.)."
+      "Hell-preaching as fear tactic.",
+      "Demon explanations that replace responsibility and reality anchoring.",
+      "Exclusivist claims and ambition to 'convert others'.",
+      "Suggestion and rituals that create group pressure (falling, shouting, etc.)."
     ],
     "state_church_anti_patterns": [
-      "Formalisering och rit som kväver liv och spontanitet.",
-      "För mycket ordning utan andlig puls (enligt Nineve-bedömningen)."
+      "Formalization and ritual that suppress life and spontaneity.",
+      "Too much order without spiritual vitality (Nineve assessment)."
     ],
     "catholic_anti_patterns": [
-      "Institutionellt tolkningsföreträde som utesluter andra röster.",
-      "Överupphöjelse av Jesu moder (bedömt som osunt i Nineve)."
+      "Institutional interpretive authority that excludes other voices.",
+      "Elevation of Jesus’ mother (assessed as unhealthy within Nineve)."
     ]
   },
   "practical_ruleset": [
     {
       "id": "RULE-01",
-      "rule": "Ta alltid ansvar på sunda mänskliga grunder; skyll inte efteråt på 'tecken' eller 'profetior'."
+      "rule": "Always take responsibility on sound human grounds; do not later attribute decisions to 'signs' or 'prophecies'."
     },
     {
       "id": "RULE-02",
-      "rule": "Svara när frågan ställs; pressa inte fram andliga beslut hos andra."
+      "rule": "Respond when asked; do not pressure others into spiritual decisions."
     },
     {
       "id": "RULE-03",
-      "rule": "När friden uteblir och minsta tvekan kvarstår efter genomtänkt prövning: avstå."
+      "rule": "If peace is absent and even minimal doubt remains after careful reflection: refrain."
     },
     {
       "id": "RULE-04",
-      "rule": "Håll distans mot dem som inte är sända som hjälptjänst; full öppenhet mot verklig hjälptjänst."
+      "rule": "Maintain distance from those not sent as helping service; full openness toward genuine helping service."
     },
     {
       "id": "RULE-05",
-      "rule": "Mät budskap på frukt: fred, mildhet, sanning, uthållighet, och tjänande."
+      "rule": "Measure messages by fruit: peace, gentleness, truth, endurance, and service."
     }
   ],
   "compatibility_notes_for_ai_training": {
