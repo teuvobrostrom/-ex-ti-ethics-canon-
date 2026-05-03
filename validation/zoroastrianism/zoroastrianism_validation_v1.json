@@ -1,1 +1,171 @@
-
+{
+  "schema": "sta-canon/validation-json/v1",
+  "id": "ZOR-VAL-01",
+  "title": "Zoroastrianism — Ethical Interpretation (Validation Layer)",
+  "tradition": "Zoroastrianism",
+  "language": "en",
+  "version": "v1.0",
+  "type": "validation",
+  "status": "draft",
+  "created_for": "EX-TI Ethics Canon / SpiritHub Validation Layer",
+  "purpose": [
+    "Make selected ethical structures within Zoroastrianism machine-readable.",
+    "Provide a validation reference for comparison with the EX-TI Ethics Canon.",
+    "Identify alignment points between Zoroastrian ethical teaching and responsibility-based moral architecture.",
+    "Identify divergence points where cosmic dualism or eschatological judgment may differ from EX-TI and Nineve structures."
+  ],
+  "core_principles": [
+    {
+      "id": "ZOR-P01",
+      "principle": "Good Thoughts, Good Words, Good Deeds",
+      "description": "Ethical life is expressed through the alignment of inner intention, spoken expression, and concrete action.",
+      "alignment_with_ex_ti": [
+        "Aligns with TI-02: responsibility remains personal and explicit.",
+        "Aligns with TI-03: moral output must be evaluated through non-harmful action.",
+        "Aligns with EX-05: structural integrity requires coherence between thought, word, and deed."
+      ]
+    },
+    {
+      "id": "ZOR-P02",
+      "principle": "Asha — Truth, Order, and Right Alignment",
+      "description": "Asha represents truth, right order, and alignment with the good structure of reality.",
+      "alignment_with_ex_ti": [
+        "Aligns with EX-05: internal coherence and structural integrity.",
+        "Aligns with TI-04: recursive evaluation prevents moral drift.",
+        "Aligns with TI-07: trust must be grounded in verifiable ethical output."
+      ]
+    },
+    {
+      "id": "ZOR-P03",
+      "principle": "Druj — Falsehood, Distortion, and Disorder",
+      "description": "Druj represents falsehood, distortion, deception, and misalignment from truth.",
+      "alignment_with_ex_ti": [
+        "Aligns with EX-TI detection of structural contradiction, moral displacement, and responsibility avoidance.",
+        "Aligns with HFA-style diagnosis of fracture patterns where reality anchoring collapses.",
+        "Aligns with TI-13: hidden consequences and suppressed signals create systemic harm."
+      ]
+    },
+    {
+      "id": "ZOR-P04",
+      "principle": "Human Participation in Moral Reality",
+      "description": "Human beings are not passive observers but active participants in strengthening truth or falsehood through choices.",
+      "alignment_with_ex_ti": [
+        "Strong alignment with TI-02: responsibility cannot be delegated.",
+        "Strong alignment with EX-00: liberation requires internal transition, not only external separation.",
+        "Aligns with TI-18: interior maturity is a systemic defense."
+      ]
+    }
+  ],
+  "ethical_mechanics": {
+    "thought": {
+      "function": "Inner orientation",
+      "risk_when_corrupted": "Self-deception, fear, resentment, ego-driven distortion",
+      "ex_ti_alignment": "Interior maturity and reality anchoring"
+    },
+    "word": {
+      "function": "Relational and social transmission of truth or falsehood",
+      "risk_when_corrupted": "Manipulation, exaggeration, coercion, demonization, narrative distortion",
+      "ex_ti_alignment": "Transparency, non-coercion, and responsibility in communication"
+    },
+    "deed": {
+      "function": "Concrete moral output",
+      "risk_when_corrupted": "Harm, exploitation, domination, responsibility displacement",
+      "ex_ti_alignment": "Output-based validation and non-delegable responsibility"
+    }
+  },
+  "alignment_summary": {
+    "strong_alignment": [
+      {
+        "theme": "Responsibility",
+        "ex_ti_reference": "TI-02",
+        "description": "Zoroastrian ethics emphasizes that human beings actively participate in moral reality through choices."
+      },
+      {
+        "theme": "Integrity between inner and outer life",
+        "ex_ti_reference": "EX-05 / TI-03",
+        "description": "Good thoughts, words, and deeds require coherence between inner orientation, speech, and action."
+      },
+      {
+        "theme": "Truth vs distortion",
+        "ex_ti_reference": "EX-05 / TI-13",
+        "description": "Asha vs druj maps well to structural truth vs systemic distortion."
+      },
+      {
+        "theme": "Moral action over passive belief",
+        "ex_ti_reference": "TI-07 / TI-10",
+        "description": "Ethics is verified through lived output, not only claims or identity."
+      }
+    ],
+    "partial_alignment": [
+      {
+        "theme": "Cosmic moral order",
+        "description": "Zoroastrianism frames reality as a moral field. EX-TI can validate this structurally while avoiding dogmatic metaphysical commitment."
+      },
+      {
+        "theme": "Restoration of order",
+        "description": "The idea of restoring truth/order aligns with structural repair, but may include eschatological elements outside EX-TI."
+      }
+    ]
+  },
+  "divergence_points": [
+    {
+      "id": "ZOR-D01",
+      "theme": "Cosmic Dualism",
+      "description": "Zoroastrianism includes a strong dualistic framing between good and evil powers. EX-TI and Nineve generally avoid locating evil in external metaphysical agents.",
+      "handling_rule": "Treat dualism as a symbolic or structural contrast unless explicitly used as theology."
+    },
+    {
+      "id": "ZOR-D02",
+      "theme": "Externalization of Evil",
+      "description": "The figure of Angra Mainyu may externalize evil in a way that differs from Nineve, where harm is primarily explained through human ego, psychology, ethics, and responsibility.",
+      "handling_rule": "Do not import external evil-agent logic into EX-TI analysis unless explicitly marked as tradition-specific."
+    },
+    {
+      "id": "ZOR-D03",
+      "theme": "Final Judgment / Eschatology",
+      "description": "Zoroastrian eschatological judgment structures may diverge from Nineve's universal positive destiny model.",
+      "handling_rule": "Use as validation/stress comparison, not as normative authority."
+    }
+  ],
+  "validation_logic": {
+    "use_as": "alignment_reference",
+    "not_use_as": "normative_core",
+    "canonical_priority": [
+      "EX-TI remains the normative core.",
+      "Zoroastrianism functions as a validation module.",
+      "Divergence points must be surfaced rather than hidden."
+    ],
+    "interpretation_rule": "Where Zoroastrianism aligns with responsibility, truth, integrity, and action, it validates EX-TI. Where it introduces cosmic dualism or external evil agency, mark the divergence explicitly."
+  },
+  "diagnostic_translation": {
+    "good_thoughts": {
+      "sta_expression": "Interior clarity and responsibility before action",
+      "risk_signal": "Self-deception or fear-driven cognition"
+    },
+    "good_words": {
+      "sta_expression": "Truthful, non-coercive, dignity-preserving communication",
+      "risk_signal": "Manipulative, fear-based, or divisive speech"
+    },
+    "good_deeds": {
+      "sta_expression": "Observable non-harmful output and responsibility-owned action",
+      "risk_signal": "Ethical claims without corresponding conduct"
+    },
+    "asha": {
+      "sta_expression": "Structural truth, coherence, and reality alignment",
+      "risk_signal": "Contradiction, incoherence, hidden harm"
+    },
+    "druj": {
+      "sta_expression": "Distortion, falsehood, and systemic misalignment",
+      "risk_signal": "Narrative manipulation, responsibility displacement, suppressed consequences"
+    }
+  },
+  "safe_use_guidelines": [
+    "Do not present this module as a complete representation of all Zoroastrian theology.",
+    "Use it as an ethical validation layer focused on structural principles.",
+    "Distinguish clearly between ethical alignment and theological agreement.",
+    "Do not collapse Zoroastrianism into EX-TI; preserve its distinct language and structure.",
+    "Surface divergence points honestly, especially around cosmic dualism and eschatology."
+  ],
+  "machine_use_instruction": "When using this module in AI systems, compare Zoroastrian ethical mechanics against EX-TI without allowing validation material to override the normative core.",
+  "license_note": "Use according to the license terms of the surrounding EX-TI / SpiritHub architecture."
+}
